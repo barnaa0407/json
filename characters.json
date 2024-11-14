@@ -1,0 +1,16 @@
+[
+    {
+        "name": "Gorath",
+        "level": 5,
+        "health": 100,
+        "attack": 25,
+        "defense": 10
+    },
+    {
+        "name": "Elira",
+        "level": 4,
+        "health": 80,
+        "attack": 30,
+        "defense": 8
+    }
+]
